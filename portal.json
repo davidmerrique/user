@@ -25,7 +25,12 @@
     "dat://9aaf4eaa47fd8a44e28621eb59559f087d0bb282471cdf78989b12335a8bd25f/",
     "dat://5219dad560d3d6fd41819268e9bef18203aefd629728655f7d4f57f05740fab1/"
   ],
-  "feed": [],
+  "feed": [
+    {
+      "message": "🔺",
+      "timestamp": 1508273164506
+    }
+  ],
   "site": "https://merrique.me",
   "dat": "dat://03c1117f7156bdb0c3150d8cca5d5c0047059794b263a9206220bbfde90d62cf/"
 }
